@@ -16,3 +16,19 @@ Firmware files in this repo:
 * FP-EXP-0071
 * FP-EXP-0081
 * FP-EXP-0091
+
+### Expansion Board Release Notes
+
+#### `0.11` August 18, 2023
+
+* Bug fix: breakout board `ID:` responses
+* Bug fix: `BR:` command
+
+#### `0.10` August 7, 2023
+
+* Early WIP EXP show scripting (`ES:`, `TS:` commands)
+* Early WIP LED block support (`ER:` command)
+
+#### `0.9` May 9, 2023
+
+* Bug fix: `EM:` command
