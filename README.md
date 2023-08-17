@@ -19,6 +19,10 @@ Firmware files in this repo:
 
 ### Expansion Board Release Notes
 
+#### `0.12` August 19, 2023
+
+* Bug fix: LED ports 5-8 didn't work on FP-EXP-0081 due to a typo
+
 #### `0.11` August 18, 2023
 
 * Bug fix: breakout board `ID:` responses
