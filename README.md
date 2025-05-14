@@ -11,14 +11,19 @@ Firmware files in this repo:
 * FP-CPU-2000 (FAST Neuron Controller)
 * FP-CPU-003 (FAST Nano Controller)
 
+## Display Boards
+
+* FP-DSP-0007 (FAST RGB 7 Segment 7 Digit Display) 
+* FP-DSP-0006 (FAST RGB 7 Segment 6 Digit Display) 
+
 ## Expansion Boards
 
-* FP-EXP-0051
-* FP-EXP-0061
-* FP-EXP-0071
-* FP-EXP-0081
-* FP-EXP-0091
-* FP-EXP-1313
+* FP-EXP-0051 (128 RGB LEDs, 2 DC Motors) 
+* FP-EXP-0061 (128 RGB LEDs, 2 Stepper Motors) 
+* FP-EXP-0071 (128 RGB LEDs, 4 Servo Motors) 
+* FP-EXP-0081 (256 RGB LEDs) 
+* FP-EXP-0091 (256 RGB LEDs) 
+* FP-EXP-1313 (Shaker Motor)
 
 ### Expansion Board Release Notes
 
